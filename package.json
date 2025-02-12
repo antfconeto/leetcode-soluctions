@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-soluctions",
+  "version": "1.0.0",
+  "description": "Welcome to my **LeetCode Solutions Repository**! Here, you'll find my solutions to various algorithmic problems from LeetCode, categorized by difficulty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antfconeto/leetcode-soluctions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antfconeto/leetcode-soluctions/issues"
+  },
+  "homepage": "https://github.com/antfconeto/leetcode-soluctions#readme"
+}
