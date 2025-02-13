@@ -1,3 +1,4 @@
+//Problem 4# - hard
 function findMedianSortedArrays(nums1: number[], nums2: number[]) {
     let newArray:number[] = []
     nums1.forEach((num)=>newArray.push(num))

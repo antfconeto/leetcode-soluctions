@@ -1,3 +1,4 @@
+//Problem 3# - medium
 function lengthOfLongestSubstring(s: string): number {
     let map = new Map<string, number>();
     let maxLength = 0;
